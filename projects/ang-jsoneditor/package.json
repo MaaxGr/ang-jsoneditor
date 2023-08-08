@@ -1,6 +1,6 @@
 {
   "name": "@maaxgr/ang-jsoneditor",
-  "version": "14.0.0",
+  "version": "15.0.0",
   "license": "MIT",
   "homepage": "https://github.com/MaaxGr/ang-jsoneditor",
   "repository": {
@@ -16,9 +16,9 @@
     "angular"
   ],
   "peerDependencies": {
-    "@angular/common": "^14",
-    "@angular/core": "^14",
-    "jsoneditor": "^9.1.4"
+    "@angular/common": "^15",
+    "@angular/core": "^15",
+    "jsoneditor": "^9.5.6"
   },
   "dependencies": {
     "tslib": "^2.3.0"

@@ -2,7 +2,7 @@
 
 ## About this repository
 This is a fork of mariohmol's [ang-jsoneditor](https://github.com/mariohmol/ang-jsoneditor)
-with support for Angular 11, 12, 13 and 14.
+with support for Angular 11, 12, 13, 14 and 15.
 This repository will probably become stale,
 when the original will be actively maintained again.
 
@@ -31,6 +31,7 @@ To install this library with npm, run one of the command below:
 | Angular 12    | `npm install @maaxgr/ang-jsoneditor@12` | Stable    |
 | Angular 13    | `npm install @maaxgr/ang-jsoneditor@13` | Stable    |
 | Angular 14    | `npm install @maaxgr/ang-jsoneditor@14` | Stable    |
+| Angular 15    | `npm install @maaxgr/ang-jsoneditor@15` | Stable    |
 
 **WARNING:** Although versions are marked as stable,
 there can be still bugs because this project isn't heavily integrated in a lot of production projects
